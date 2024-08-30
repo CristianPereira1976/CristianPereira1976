@@ -13,6 +13,9 @@
   Olá, meu nome é Wellington Cristian Pereira, tenho 48 anos e sou estudante de Desenvolvimento de Sistemas.
 </p>
 <p align="center">
+  Estou em busca de conhecimento, pora evoluir profissionalmente e financeiramente.
+</p>
+<p align="center">
 Estudar, Bike.
 
 <!-- Languages and tools -->
